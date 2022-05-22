@@ -58,8 +58,8 @@
  </div>
 
 </summary>
+ ![Snake animation](https://github.com/Amontoya1/Amontoya1/blob/output/github-contribution-grid-snake.svg)
 
 </details>
-![Snake animation](https://github.com/Amontoya1/Amontoya1/blob/output/github-contribution-grid-snake.svg)
 
 
