@@ -56,10 +56,12 @@
   <img align="center" alt="CSharp" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40px" height="30px"/>
   <img align="center" alt="NodeJs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40px" height="30px"/>
  </div>
-
 </summary>
- ![Snake animation](https://github.com/Amontoya1/Amontoya1/blob/output/github-contribution-grid-snake.svg)
-
 </details>
+ <div align="center">
+  
+  ![Snake animation](https://github.com/Amontoya1/Amontoya1/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
 
